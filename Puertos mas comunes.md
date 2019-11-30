@@ -1,0 +1,19 @@
+# Lista de puertos:
+Description|Port
+----------|------------
+HTTP|80
+HTTPS|443
+FTP|21
+FTPS/SSH|22
+POP3|110
+POP3 SSL|995
+IMAP|143
+IMAP SSL|993
+SMTP|25
+SMTP|*26*
+SMTP|*2525*
+SMTP SSL|587
+MySQL|3306
+Postgres|5432
+CPanel|2082
+CPanel SSL|2083
