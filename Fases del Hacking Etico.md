@@ -16,8 +16,8 @@ nmap --script vuln 192.168.1.35
 
 [Reverse Shell](https://ironhackers.es/herramientas/reverse-shell-cheat-sheet/)
 ```
-**mysql** -h <ip> -u <user> -p
-**ssh** <user>@<ip>
+mysql -h <ip> -u <user> -p
+ssh <user>@<ip>
 ```
 
 ## 4. Mantener el acceso
