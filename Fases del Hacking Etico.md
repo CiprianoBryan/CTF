@@ -12,9 +12,9 @@ nmap --script vuln 192.168.1.35
 ```
 
 ## 3. Obtener acceso:
-```
 [Netcat](https://es.wikipedia.org/wiki/Netcat): nc -nlvp 1234
 [Reverse Shell](https://ironhackers.es/herramientas/reverse-shell-cheat-sheet/)
+```
 **mysql** -h <ip> -u <user> -p
 **ssh** <user>@<ip>
 ```
