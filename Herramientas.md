@@ -7,3 +7,13 @@ Deauthentication: wlan.fc.type_subtype == 0xc
 Association Request: wlan.fc.type_subtype == 0x0
 Association Response: wlan.fc.type_subtype == 0x1
 ```
+
+### Metadatos:
+```
+exitfool filename
+```
+
+### Extracción de texto:
+```
+strings filename
+```
